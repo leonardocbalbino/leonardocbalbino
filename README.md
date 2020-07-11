@@ -1,4 +1,12 @@
-### Hi there 👋
+### Leonardo Carlos Balbino 💻
+
+[![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:leonardo.carlos8@gmail.com)](mailto:leonardo.carlos8@gmail.com)
+[![Instagram Badge](https://img.shields.io/badge/-Instagram-C71585?style=flat-square&labelColor=C71585&logo=instagram&logoColor=white&link=https://www.instagram.com/_leonardocarlos_/)](https://www.instagram.com/_leonardocarlos_/)
+[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/lenardocbalbino/)](https://www.linkedin.com/in/leonardocbalbino/)
+
+Hellooo! Welcome to my profile
+
+My name is Leonardo and I'm Systems Developer Analyst.
 
 <!--
 **leonardocbalbino/leonardocbalbino** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
