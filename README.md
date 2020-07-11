@@ -9,6 +9,10 @@ Hellooo! Bem vindo ao meu perfil
 
 Meu nome é Leonardo Carlos, Analista Desenvolvedor de Sistemas.
 
+👨🏻‍💻 Desenvolvedor Web
+👨🏻‍💻 Desenvolvedor Frontend
+👨🏻‍💻 Desenvolvedor Mobile
+
 💼 Desenvolvedor na Golden TI 
 
 💼 Desenvolvedor no Instituto de Previdência dos Servidores do Estado do Maranhão - IPREV/MA
