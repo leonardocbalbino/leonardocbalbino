@@ -15,6 +15,8 @@ Meu nome é Leonardo Carlos, Analista Desenvolvedor de Sistemas.
 
 💼 Desenvolvedor na Golden TI 
 
+💼 Consultor de TI no Centro Universitário UNDB
+
 💼 Desenvolvedor no Instituto de Previdência dos Servidores do Estado do Maranhão - IPREV/MA
 
 🎓 Graduado em Análise e Desenvolvimento de Sistemas
