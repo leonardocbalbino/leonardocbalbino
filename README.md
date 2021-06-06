@@ -25,9 +25,9 @@ Meu nome é Leonardo Carlos, Analista Desenvolvedor de Sistemas.
 
 🎓 Especialista em Gestão Ágil de Projetos
 
-🎓 Especialização em Andamento: Inteligência Artificial
+🎓 Especialista em Informática na Educação
 
-🎓 Especialização em Andamento: Informática na Educação
+🎓 Especialização em Andamento: Inteligência Artificial
 
 🎓 Especialização em Andamento: Ciência de Dados
 
