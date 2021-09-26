@@ -11,13 +11,9 @@ Meu nome é Leonardo Carlos, Analista Desenvolvedor de Sistemas.
 
 👨🏻‍💻 Desenvolvedor Web
 👨🏻‍💻 Desenvolvedor Frontend
-👨🏻‍💻 Desenvolvedor Mobile
+👨🏻‍💻 Desenvolvedor Backend
 
-💼 Desenvolvedor na Golden TI 
-
-💼 Consultor de TI no Centro Universitário UNDB
-
-💼 Desenvolvedor no Instituto de Previdência dos Servidores do Estado do Maranhão - IPREV/MA
+💼 Gestor Ágil, Analista e Desenvolvedor de Sistemas 
 
 🎓 Graduado em Análise e Desenvolvimento de Sistemas
 
@@ -27,7 +23,9 @@ Meu nome é Leonardo Carlos, Analista Desenvolvedor de Sistemas.
 
 🎓 Especialista em Informática na Educação
 
-🎓 Especialização em Andamento: Inteligência Artificial
+🎓 Especialista em Inteligência Artificial
+
+🎓 Especialização em Andamento: Banco de Dados
 
 🎓 Especialização em Andamento: Ciência de Dados
 
